@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel Firewall Auditor",
+  "description": "A professional security triangulation audit tool comparing WatchGuard configurations, Gateway logs, and Server logs to identify blind spots and policy violations.",
+  "requestFramePermissions": []
+}
